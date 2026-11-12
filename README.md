@@ -1,3 +1,5 @@
+> **Unique:** PyPI-published stdlib-only CLI that turns Google Colab into a local GPU dev backend: colab CLI VM allocation plus Mutagen two-way sync, multiplexed SSH, and Claude Code skills and compute-cost statusline; edit locally, run on Colab.
+
 # colabo
 
 [![PyPI](https://img.shields.io/pypi/v/colabo)](https://pypi.org/project/colabo/) [![CI](https://github.com/khursanirevo/colabo/actions/workflows/ci.yml/badge.svg)](https://github.com/khursanirevo/colabo/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
